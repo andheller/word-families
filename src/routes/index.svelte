@@ -16,13 +16,13 @@
 
 	function incrementRoot() {
 		let rootLength = $wordList.length;
-		if (rootIndex == rootLength - 1) return (rootIndex = 0);
+		if (rootIndex == rootLength - 1) return (rootIndex = 0), (letterIndex = 0);
 		rootIndex = rootIndex + 1;
 		letterIndex = 0;
 	}
 	function decrementRoot() {
 		let rootLength = $wordList.length;
-		if (rootIndex == 0) return (rootIndex = rootLength - 1);
+		if (rootIndex == 0) return (rootIndex = rootLength - 1), (letterIndex = 0);
 		rootIndex = rootIndex - 1;
 		letterIndex = 0;
 	}
