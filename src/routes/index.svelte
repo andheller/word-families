@@ -1,6 +1,6 @@
 <script>
 	import { wordList } from '../word-store.js';
-	let letterIndex = 0;
+	let letterIndex = 7;
 	let rootIndex = 0;
 
 	function incrementLetter() {
