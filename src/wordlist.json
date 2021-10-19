@@ -1,0 +1,65 @@
+{
+	"json": [
+		{
+			"id": "0",
+			"favorite": false,
+			"active": "false",
+			"currentLetterIndex": 0,
+			"root": "ack",
+			"beginning": [
+				"Att",
+				"B",
+				"Bl",
+				"Cl",
+				"Cr",
+				"Fl",
+				"H",
+				"J",
+				"Kn",
+				"L",
+				"P",
+				"Qu",
+				"R",
+				"S",
+				"Sn",
+				"T",
+				"Tr",
+				"Wh",
+				"Z"
+			]
+		},
+		{
+			"id": "1",
+			"favorite": false,
+			"active": "false",
+			"currentLetterIndex": 0,
+			"root": "ad",
+			"beginning": ["B", "Br", "C", "Cl", "D", "Dood", "Gl", "H", "L", "M", "P", "S"]
+		},
+		{
+			"id": "2",
+			"favorite": false,
+			"active": "false",
+			"currentLetterIndex": 0,
+			"root": "age",
+			"beginning": ["C", "Eng"]
+		},
+		{
+			"id": "3",
+			"favorite": false,
+			"active": "false",
+			"currentLetterIndex": 0,
+			"root": "ail",
+			"beginning": ["F", "H", "J", "M", "N", "P", "R", "S", "Sn", "T", "W"]
+		},
+
+		{
+			"id": "4",
+			"favorite": false,
+			"active": "false",
+			"currentLetterIndex": 0,
+			"root": "ain",
+			"beginning": ["B", "Ch", "Compl"]
+		}
+	]
+}
