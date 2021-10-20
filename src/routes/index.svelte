@@ -30,8 +30,8 @@
 		let key = event.key;
 		if (key === 'ArrowLeft') return decrementLetter();
 		if (key === 'ArrowRight') return incrementLetter();
+		if (key === ' ') return incrementLetter();
 		if (key === 'ArrowUp') return incrementRoot();
-		if (key === 'Space') return incrementRoot();
 		if (key === 'ArrowDown') return decrementRoot();
 		checkKey(key);
 	}
